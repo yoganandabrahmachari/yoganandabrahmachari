@@ -12,3 +12,6 @@ Passionate about crafting full-stack applications and building robust CI/CD pipe
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ... and so on.
+### 📊 My GitHub Stats
+
+![Yoganandabrahmachari's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoganandabrahmachari&show_icons=true&theme=dark)
