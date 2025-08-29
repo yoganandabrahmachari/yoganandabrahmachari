@@ -15,3 +15,32 @@ Passionate about crafting full-stack applications and building robust CI/CD pipe
 ### 📊 My GitHub Stats
 
 ![Yoganandabrahmachari's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoganandabrahmachari&show_icons=true&theme=dark)
+
+### ✨ Projects
+
+#### 🚀 **Jenkins-Zero-To-Hero**
+* Comprehensive project on building CI/CD pipelines.
+* Hands-on experience with Jenkins, Docker, and Kubernetes deployment.
+* Deployed applications to k8s using GitOps with Argo CD.
+
+#### 📦 **Todo-List-Dockerized-Flask-WebApp**
+* A simple to-do web application to practice Dockerization.
+* Focus on CI/CD and deployment concepts using Python and Flask.
+
+#### 🌐 **e-commerce**
+* A full-stack e-commerce platform to demonstrate end-to-end development.
+* Features for product management, user authentication, and a shopping cart system.
+
+#### 💬 **real-time-chat-application**
+* Built a real-time chat application using web technologies.
+* Explored concepts of instant communication and WebSocket-based logic.
+
+#### 🛒 **electronic-store**
+* An e-commerce web application built with a PHP backend.
+* Showcases skills in server-side scripting and database integration.
+
+#### ☁️ **kuberpro**
+* A project focused on learning and applying core Kubernetes concepts.
+* Explored container orchestration, pods, services, and deployments.
+
+---
