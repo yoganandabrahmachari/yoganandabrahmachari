@@ -8,7 +8,6 @@ Passionate about crafting full-stack applications and building robust CI/CD pipe
 
 ### 🛠 Tech Stack & Tools
 
-### ⚙️ Tech Stack & Tools
 
 ---
 
